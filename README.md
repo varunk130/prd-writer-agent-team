@@ -3,7 +3,7 @@
 **A multi-agent system that generates accurate, polished and executive ready production-grade Product Requirements Documents for AI Product Teams to move faster.**
 
 [![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blueviolet)](https://claude.ai)
-[![Agents](https://img.shields.io/badge/Agents-4%20Specialized-blue)]()
+[![Agents](https://img.shields.io/badge/Agents-4%20Specialized-blue)](#-what-each-agent-produces)
 
 > **⚠️ Disclaimer:** All data in this project is entirely synthetic and mock-generated for demonstration purposes. Customer names, company names, financial figures, market data, and all agent outputs are fictional. No real customer data, proprietary information, or actual business metrics were used.
 
