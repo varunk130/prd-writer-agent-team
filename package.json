@@ -1,0 +1,14 @@
+{
+  "name": "prd-writer-agent-team",
+  "version": "1.0.0",
+  "description": "Parallel PRD Writer Agent Team — generates domain-specific Product Requirements Documents with quality scoring. ALL DATA IS SYNTHETIC/MOCK.",
+  "main": "agents/orchestrator.js",
+  "scripts": {
+    "dev": "node --watch agents/orchestrator.js",
+    "generate": "node agents/orchestrator.js",
+    "build": "node scoring/quality-engine.js"
+  },
+  "keywords": ["prd", "agents", "quality-scoring"],
+  "license": "MIT",
+  "private": true
+}
